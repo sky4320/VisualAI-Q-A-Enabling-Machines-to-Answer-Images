@@ -4,7 +4,7 @@
 
 <!-- Project Logo -->
 <p align="center">
-  <img src="project_logo.jpg" alt="Project Logo" width="200" height="200">
+  <img src="project_logo.png" alt="Project Logo" width="200" height="200">
 </p>
 
 ## Overview
