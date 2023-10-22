@@ -43,6 +43,34 @@ In a nutshell, VisualAI Q&A operates in a few simple steps:
 3. **Model Training**: Our models are trained using a dataset of images, questions, and answers, and fine-tuned to provide accurate answers.
 4. **Validation and Visualization**: The accuracy of the model is validated, and we provide stunning visualizations to help you understand the model's decisions.
 
+
+## Datasets
+
+1. **Training Images**:
+   - Download the training images from the following URL:
+   - [Training Images](http://images.cocodataset.org/zips/train2014.zip)
+   - Please note that this file is large, so ensure you have sufficient storage space and a stable internet connection for the download.
+
+2. **Validation Images**:
+   - Download the validation images from the following URL:
+   - [Validation Images](http://images.cocodataset.org/zips/val2014.zip)
+   - Similar to the training images, the validation images are also quite large.
+
+3. **Training Questions**:
+   - Access the training questions in a zip file:
+   - [Training Questions](https://s3.amazonaws.com/cvmlp/vqa/mscoco/vqa/Questions_Train_mscoco.zip)
+
+4. **Training Annotations**:
+   - Download the training annotations in a zip file:
+   - [Training Annotations](https://s3.amazonaws.com/cvmlp/vqa/mscoco/vqa/Annotations_Train_mscoco.zip)
+
+5. **Validation Questions**:
+   - Find the validation questions in a zip file:
+   - [Validation Questions](https://s3.amazonaws.com/cvmlp/vqa/mscoco/vqa/Questions_Val_mscoco.zip)
+
+6. **Validation Annotations**:
+   - Download the validation annotations in a zip file:
+   - [Validation Annotations](https://s3.amazonaws.com/cvmlp/vqa/mscoco/vqa/Annotations_Val_mscoco.zip)
 ## Installation
 
 1. **Clone the repository**:
